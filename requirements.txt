@@ -1,0 +1,8 @@
+tornado
+bs4
+docx
+openpyxl
+xlrd
+requests
+pymysql
+whoosh
